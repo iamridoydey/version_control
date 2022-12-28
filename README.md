@@ -1,4 +1,4 @@
-# version_control
-# I love programming
-# I love to solve programming challenge
+# version_control.
+# I love programming.
+# I love to solve programming challenge.
 # Leetcode is like facebook to me.
